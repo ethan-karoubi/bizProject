@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ethan Karoubi",
+      "email": "ethan@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "email": "liora.karoubi@gmail.com",
+      "password": "udgdeyhf",
+      "name": "ftojrt",
+      "id": 2
+    },
+    {
+      "email": "liora.karoubi@gmail.com",
+      "password": "udgdeyhf",
+      "name": "ftojrt",
+      "id": 3
+    },
+    {
+      "email": "ethan.karoubi@gmail.com",
+      "password": "&é\"'(§è!",
+      "name": "Peter Petigros",
+      "id": 4
+    },
+    {
+      "email": "ethan.karoubi@gmail.com",
+      "password": "&é\"'(§è!",
+      "name": "Peter Petigros",
+      "id": 5
+    },
+    {
+      "email": "ethan.karoubi@gmail.com",
+      "password": "azertyui",
+      "name": "Peter Petigros",
+      "id": 6
+    },
+    {
+      "email": "ethan.karoubi@gmail.com",
+      "password": "azertyui",
+      "name": "Peter Petigros",
+      "id": 7
+    },
+    {
+      "email": "ethan.karoubi@gmail.com",
+      "password": "azertyui",
+      "name": "Peter Petigros",
+      "id": 8
+    },
+    {
+      "email": "liora.karoubi@gmail.com",
+      "password": "&é\"'(§è!",
+      "name": "Peter Petigros",
+      "id": 9
+    },
+    {
+      "email": "liora.karoubi@gmail.com",
+      "password": "&é\"'(§è!",
+      "name": "Peter Petigros",
+      "id": 10
+    },
+    {
+      "email": "liora.karoubi@gmail.com",
+      "password": "&é\"'(§è!",
+      "name": "Peter Petigros",
+      "id": 11
+    },
+    {
+      "email": "jpkaroubi@gmail.com",
+      "password": "g78u0hg8p0",
+      "name": "iugfq",
+      "id": 12
+    },
+    {
+      "email": "jpkaroubi@gmail.com",
+      "password": "98hh89iph",
+      "name": "Karoubi Ethan",
+      "id": 13
+    },
+    {
+      "email": "ethan.karoubi8@gmail.com",
+      "password": "iwqdh-hefw",
+      "name": "qijjdowjd",
+      "id": 14
+    }
+  ],
+  "bizness": [
+    {
+      "BisnessAdress": "wdklnefio[ef",
+      "BisnessPhone": "fejefio[nefwo",
+      "BisnessName": "efwijf",
+      "BisnessDescription": "ijiedpfjioefji",
+      "userId": 13,
+      "id": 1
+    }
+  ]
+}
